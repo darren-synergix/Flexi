@@ -9,8 +9,8 @@ OL Summary Update
 | RFID Handheld  | &#10008;  |
 | Table Top solution  | &#10008;  |
 | POS  | &#10008;  |
-| Jensen Machine  | &#10004;  |
-| Manual Machine  | &#10008;  |
+| Jensen Machine (towel folding, flatwork)  | &#10004;  |
+| Manual Machine (washing, dryclean)  | &#10008;  |
 | Hotel Guest Sales Order  | &#10008;  |
 
 [Link to Overview Diagram v0](https://darren-synergix.github.io/OL/od_v0.pdf)
@@ -36,8 +36,8 @@ Process study uncovered new requirements as follow:
 | RFID Handheld  | &#10004;  |
 | Table Top solution  | &#10008;  |
 | POS  | &#10004;  |
-| Jensen Machine  | &#10004;  |
-| Manual Machine  | &#10008;  |
+| Jensen Machine (towel folding, flatwork) | &#10004;  |
+| Manual Machine (washing, dryclean) | &#10008;  |
 | Hotel Guest Sales Order  | &#10008;  |
 
 [Link to Overview Diagram v1](https://darren-synergix.github.io/OL/od_v1.pdf)
@@ -69,8 +69,8 @@ Process study uncovered new requirements as follow:
 | RFID Handheld  | &#10004;  |
 | Table Top solution  | &#10008;  |
 | POS  | &#10004;  |
-| Jensen Machine  | &#10004;  |
-| Manual Machine  | &#10004;  |
+| Jensen Machine (towel folding, flatwork)  | &#10004;  |
+| Manual Machine (washing, dryclean)  | &#10004;  |
 | Hotel Guest Sales Order  | &#10008;  |
 
 [Link to Overview Diagram v2](https://darren-synergix.github.io/OL/od_v2.pdf)
@@ -85,8 +85,8 @@ Process study uncovered new requirements as follow:
 | RFID Handheld  | &#10004;  |
 | Table Top solution  | &#10004;  |
 | POS  | &#10004;  |
-| Jensen Machine  | &#10004;  |
-| Manual Machine  | &#10004;  |
+| Jensen Machine (towel folding, flatwork)  | &#10004;  |
+| Manual Machine (washing, dryclean)  | &#10004;  |
 | Hotel Guest Sales Order  | &#10004;  |
 
 [Link to Overview Diagram v3](https://darren-synergix.github.io/OL/od_v3.pdf)
