@@ -77,7 +77,7 @@ Process study uncovered new requirements as follow:
 
 ## 29/11/2017 Overview Diagram V3
 - Overview Diagram V3 presented and __sent to OL__
-- B2B and B2C workflow presented and sent to OL
+- B2B and B2C workflow presented and __sent to OL__
 
 | Module | Included  |
 |:--|:--:|
