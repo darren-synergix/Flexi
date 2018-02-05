@@ -90,7 +90,7 @@ Process study uncovered new requirements as follow:
 | Hotel Guest Sales Order  | &#10004;  |
 
 [Link to Overview Diagram v3](https://darren-synergix.github.io/OL/od_v3.pdf)
-
+<br />
 [Link to B2B Process Flow](https://darren-synergix.github.io/OL/b2b_process_flow.pdf)
-
+<br />
 [Link to B2C Process Flow](https://darren-synergix.github.io/OL/b2c_process_flow.pdf)
